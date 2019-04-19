@@ -1,5 +1,5 @@
 	.data
-addrInt1:	.word 99		# xx -> addrInt1
+addrInt1:	.word 5		# 5 -> addrInt1
 addrSum:	.word 0		# 0 -> addrSum
 
 	.global _start
