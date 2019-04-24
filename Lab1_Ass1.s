@@ -1,4 +1,4 @@
-	.data
+.data
 addrInt1:	.word 99	# 99 -> addrInt1
 addrSum:	.word 0		# 0 -> addrSum
 
@@ -30,4 +30,4 @@ END:
 	
 endloop:
 	br endloop # that's it
-	.end
+.end
